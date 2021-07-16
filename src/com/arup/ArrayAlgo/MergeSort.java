@@ -39,7 +39,7 @@ public class MergeSort {
 			tempArray[k++] = intArray[i++];
 		}
 		
-		System.arraycopy(intArray, i, intArray, start+k, mid-i);
+		//System.arraycopy(intArray, i, intArray, start+k, mid-i);
 		System.arraycopy(tempArray, 0, intArray, start, k);
 		
 	}
