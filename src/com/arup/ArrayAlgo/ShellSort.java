@@ -1,4 +1,4 @@
-package com.arup.ArrayAlgo;
+package com.arup.arrayalgo;
 /**
  * Shell sort version of insersion sort where gap is half of array length
  * @author arupdutta

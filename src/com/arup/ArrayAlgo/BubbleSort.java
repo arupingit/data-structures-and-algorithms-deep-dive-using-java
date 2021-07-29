@@ -1,4 +1,4 @@
-package com.arup.ArrayAlgo;
+package com.arup.arrayalgo;
 
 public class BubbleSort {
 

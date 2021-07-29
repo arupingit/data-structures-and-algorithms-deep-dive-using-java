@@ -1,4 +1,4 @@
-package com.arup.ArrayAlgo;
+package com.arup.arrayalgo;
 /**
  * Stable count sort algorithm based on 10th position
  * @author arupdutta
